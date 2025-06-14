@@ -2,7 +2,7 @@
 
 This repository demonstrates a workflow to downscale Land Surface Temperature (LST) from 100 m to 10 m spatial resolution by leveraging thermal data from Landsat-8 and multispectral data from Sentinel-2. The approach uses machine learning (XGBoost regression) and Microsoft's Planetary Computer for data access and processing.
 
-**Soon, a detailed methodology and code walkthrough will be available on my [Medium blog](https://medium.com/).**
+**Soon, a detailed methodology and code walkthrough will be available on my [Medium blog]**
 
 ---
 
@@ -23,7 +23,6 @@ This repository demonstrates a workflow to downscale Land Surface Temperature (L
 │   ├── 02_model_training.ipynb
 │   └── 03_inference.ipynb
 ├── model/                # Trained XGBoost model artifacts (.json/.bin)
-├── requirements.txt      # Python dependencies
 └── README.md             # This file
 ```
 
@@ -33,9 +32,6 @@ This repository demonstrates a workflow to downscale Land Surface Temperature (L
 * Anaconda or virtualenv
 * Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 Dependencies include:
 
