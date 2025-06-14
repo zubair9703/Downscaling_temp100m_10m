@@ -17,7 +17,7 @@ This repository demonstrates a workflow to downscale Land Surface Temperature (L
 ## 📂 Repository Structure
 
 ```
-├── Data/                 # Sample CSVs and TIFFs for training & testing
+├── Data/                 # Sample Geojson for training & testing
 ├── NB/                   # Jupyter notebooks (.ipynb) for each step
 │   ├── 01_data_preparation.ipynb
 │   ├── 02_model_training.ipynb
