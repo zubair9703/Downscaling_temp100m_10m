@@ -38,7 +38,7 @@ Dependencies include:
 * `xarray`, `rasterio`, `geopandas` for geospatial data handling
 * `xgboost` for regression modeling
 * `pandas`, `numpy` for data manipulation
-* `planetary-computer` or `pystac-client` for STAC data access
+* `planetary-computer` and `pystac-client` for STAC data access
 
 ## 🔧 Usage
 
