@@ -54,11 +54,11 @@ cd Downscaling\_temp100m\_10m
 2. **Explore data preparation**
 - Open `NB/01_data_preparation.ipynb`.
 - Coregister same-date Landsat-8 & Sentinel-2 tiles.
-- Generate random sample points and export to CSV in `Data/`.
+- Generate random sample points and export to Gejson in `Data/`.
 
 3. **Train the model**
 - Open `NB/02_model_training.ipynb`.
-- Load sample CSVs, train XGBoost regressor.
+- Load sample Gejson, train XGBoost regressor.
 - Model artifacts saved under `model/`.
 
 4. **Run inference**
