@@ -44,7 +44,7 @@ Dependencies include:
 
 1. **Clone the repository**
 
-   ```bash
+```bash
 
 git clone [https://github.com/zubair9703/Downscaling\_temp100m\_10m.git](https://github.com/zubair9703/Downscaling_temp100m_10m.git)
 cd Downscaling\_temp100m\_10m
